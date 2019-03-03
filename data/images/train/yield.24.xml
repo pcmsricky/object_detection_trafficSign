@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>yield.24.jpg</filename>
+	<path>C:\Users\Ricky\Desktop\object_detection_demo-master\data\images\train\yield.24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4000</width>
+		<height>3000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yield</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1366</xmin>
+			<ymin>659</ymin>
+			<xmax>2553</xmax>
+			<ymax>2241</ymax>
+		</bndbox>
+	</object>
+</annotation>
