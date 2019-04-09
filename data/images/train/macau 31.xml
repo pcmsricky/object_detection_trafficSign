@@ -1,0 +1,38 @@
+<annotation>
+	<folder>macau</folder>
+	<filename>macau 31.jpg</filename>
+	<path>C:\Users\Ricky\Desktop\macau\macau 31.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>450</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>roundaboutBlue</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>528</xmin>
+			<ymin>227</ymin>
+			<xmax>557</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>roadUp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>355</ymin>
+			<xmax>173</xmax>
+			<ymax>401</ymax>
+		</bndbox>
+	</object>
+</annotation>
