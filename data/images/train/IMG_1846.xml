@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_1846.jpg</filename>
+	<path>C:\Users\Ricky\Desktop\車牌test\test\IMG_1846.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrianCrossingR</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>228</ymin>
+			<xmax>425</xmax>
+			<ymax>314</ymax>
+		</bndbox>
+	</object>
+</annotation>
