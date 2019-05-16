@@ -1,0 +1,20 @@
+<annotation>
+  <folder>train</folder>
+  <filename>IMG_1867</filename>
+  <path>/content/object_detection_trafficSign/test</path>
+  <size>
+    <width>800</width>
+    <height>533</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>noStopping</name>
+    <difficult>6</difficult>
+    <bndbox>
+      <ymin>106</ymin>
+      <xmin>263</xmin>
+      <ymax>307</ymax>
+      <xmax>383</xmax>
+    </bndbox>
+  </object>
+</annotation>
