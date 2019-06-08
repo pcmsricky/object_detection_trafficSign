@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>yield.07.jpg</filename>
-	<path>C:\Users\Ricky\Desktop\object_detection_demo-master\data\images\train\yield.07.jpg</path>
+	<filename>yield.0008.jpg</filename>
+	<path>C:\Users\Ricky\Desktop\object_detection_demo-master\data\images\train\yield.02.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>159</xmin>
-			<ymin>119</ymin>
-			<xmax>263</xmax>
-			<ymax>222</ymax>
+			<xmin>154</xmin>
+			<ymin>135</ymin>
+			<xmax>210</xmax>
+			<ymax>186</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>160</xmin>
-			<ymin>25</ymin>
-			<xmax>254</xmax>
-			<ymax>124</ymax>
+			<xmin>155</xmin>
+			<ymin>85</ymin>
+			<xmax>211</xmax>
+			<ymax>139</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>oneway</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>79</xmin>
+			<ymin>174</ymin>
+			<xmax>106</xmax>
+			<ymax>205</ymax>
 		</bndbox>
 	</object>
 </annotation>

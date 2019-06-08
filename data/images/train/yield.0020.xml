@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
-	<filename>yield.19.jpg</filename>
-	<path>C:\Users\Ricky\Desktop\object_detection_demo-master\data\images\train\yield.19.jpg</path>
+	<filename>yield.0020.jpg</filename>
+	<path>C:\Users\Ricky\Desktop\object_detection_demo-master\data\images\train\yield.14.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,22 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>186</xmin>
-			<ymin>146</ymin>
-			<xmax>215</xmax>
-			<ymax>177</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>pedestrianCrossingR</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>159</xmin>
-			<ymin>192</ymin>
-			<xmax>170</xmax>
-			<ymax>204</ymax>
+			<xmin>131</xmin>
+			<ymin>97</ymin>
+			<xmax>241</xmax>
+			<ymax>201</ymax>
 		</bndbox>
 	</object>
 </annotation>
