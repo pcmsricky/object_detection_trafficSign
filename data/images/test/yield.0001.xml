@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
-	<filename>noLeftTurn.0001.jpg</filename>
-	<path>C:\Users\Ricky\Desktop\&#36554;&#29260;test\test\IMG_1843.jpg</path>
+	<filename>yield.0001.jpg</filename>
+	<path>C:\Users\Ricky\Desktop\&#36554;&#29260;test\test\IMG_1842.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>noLeftTurn</name>
+		<name>yield</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<difficult>0</difficult>
+		<difficult>1</difficult>
 		<bndbox>
-			<xmin>380</xmin>
-			<ymin>166</ymin>
-			<xmax>452</xmax>
-			<ymax>240</ymax>
+			<xmin>347</xmin>
+			<ymin>217</ymin>
+			<xmax>486</xmax>
+			<ymax>339</ymax>
 		</bndbox>
 	</object>
 </annotation>
