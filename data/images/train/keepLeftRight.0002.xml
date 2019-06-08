@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>keepLeftRight.0002.jpg</filename>
+	<path>E:\google\Google &#38642;&#31471;&#30828;&#30879; (pcmsricky@gmail.com)\umacAI\test\IMG_1871.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>keepLeftRight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>354</xmin>
+			<ymin>191</ymin>
+			<xmax>480</xmax>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+</annotation>

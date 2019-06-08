@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>noEntry.0007.jpg</filename>
+	<path>E:\google\Google &#38642;&#31471;&#30828;&#30879; (pcmsricky@gmail.com)\umacAI\test\IMG_1872.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>noEntry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>420</xmin>
+			<ymin>472</ymin>
+			<xmax>463</xmax>
+			<ymax>517</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>4.7mHeightLimit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>345</xmin>
+			<ymin>228</ymin>
+			<xmax>403</xmax>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+</annotation>
