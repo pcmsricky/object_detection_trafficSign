@@ -1,26 +1,22 @@
 <annotation>
-	<folder>test</folder>
-	<filename>pedestrianCrossing.0001.jpg</filename>
-	<path>C:\Users\Ricky\Desktop\&#36554;&#29260;test\test\IMG_1847.jpg</path>
-	<source>
-		<database>Unknown</database>
-	</source>
-	<size>
-		<width>800</width>
-		<height>533</height>
-		<depth>3</depth>
-	</size>
-	<segmented>0</segmented>
-	<object>
-		<name>pedestrianCrossing</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>367</xmin>
-			<ymin>211</ymin>
-			<xmax>474</xmax>
-			<ymax>310</ymax>
-		</bndbox>
-	</object>
+  <folder>train</folder>
+  <filename>pedestrianCrossing.0001.jpg</filename>
+  <path>/content/gdrive/My Drive/umacAI/test</path>
+  <size>
+    <width>800</width>
+    <height>533</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>pedestrianCrossing</name>
+    <difficult>4</difficult>
+    <pose>Unspecified</pose>
+    <post>0</post>
+    <bndbox>
+      <ymin>204</ymin>
+      <xmin>362</xmin>
+      <ymax>310</ymax>
+      <xmax>471</xmax>
+    </bndbox>
+  </object>
 </annotation>

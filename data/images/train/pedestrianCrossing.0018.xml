@@ -1,7 +1,7 @@
 <annotation>
 	<folder>train</folder>
 	<filename>pedestrianCrossing.0018.jpg</filename>
-	<path>C:\Users\Ricky\Desktop\object_detection_demo-master\data\images\train\oneway.58.jpg</path>
+	<path>C:\Users\Ricky\Desktop\object_detection_demo-master\data\images\train\oneway.56.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>146</xmin>
-			<ymin>131</ymin>
-			<xmax>184</xmax>
-			<ymax>165</ymax>
+			<xmin>159</xmin>
+			<ymin>124</ymin>
+			<xmax>198</xmax>
+			<ymax>160</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>146</xmin>
-			<ymin>164</ymin>
-			<xmax>182</xmax>
-			<ymax>199</ymax>
+			<xmin>160</xmin>
+			<ymin>159</ymin>
+			<xmax>197</xmax>
+			<ymax>193</ymax>
 		</bndbox>
 	</object>
 </annotation>

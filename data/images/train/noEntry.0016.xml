@@ -1,7 +1,7 @@
 <annotation>
-	<folder>source</folder>
+	<folder>train</folder>
 	<filename>noEntry.0016.jpg</filename>
-	<path>C:\Users\Ricky\Desktop\macauAI\training\source\yield.32.jpg</path>
+	<path>C:\Users\Ricky\Desktop\object_detection_demo-master\data\images\train\oneway.42.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,51 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
+		<name>oneway</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>188</xmin>
+			<ymin>155</ymin>
+			<xmax>222</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+	<object>
 		<name>noEntry</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>48</xmin>
-			<ymin>146</ymin>
-			<xmax>85</xmax>
-			<ymax>208</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>noStopping</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>81</xmin>
-			<ymin>202</ymin>
-			<xmax>112</xmax>
-			<ymax>236</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>yield</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>136</xmin>
-			<ymin>120</ymin>
-			<xmax>220</xmax>
-			<ymax>201</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>noLeftTurn</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>138</xmin>
-			<ymin>50</ymin>
-			<xmax>217</xmax>
-			<ymax>126</ymax>
+			<ymin>174</ymin>
+			<xmax>78</xmax>
+			<ymax>211</ymax>
 		</bndbox>
 	</object>
 </annotation>

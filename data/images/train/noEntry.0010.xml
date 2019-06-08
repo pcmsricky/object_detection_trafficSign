@@ -1,38 +1,26 @@
 <annotation>
-	<folder>train</folder>
+	<folder>test</folder>
 	<filename>noEntry.0010.jpg</filename>
-	<path>C:\Users\Ricky\Desktop\object_detection_demo-master\data\images\train\oneway.42.jpg</path>
+	<path>E:\google\Google &#38642;&#31471;&#30828;&#30879; (pcmsricky@gmail.com)\umacAI\test\IMG_1886.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>400</width>
-		<height>300</height>
+		<width>800</width>
+		<height>533</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>oneway</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>188</xmin>
-			<ymin>155</ymin>
-			<xmax>222</xmax>
-			<ymax>189</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>noEntry</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>48</xmin>
-			<ymin>174</ymin>
-			<xmax>78</xmax>
-			<ymax>211</ymax>
+			<xmin>360</xmin>
+			<ymin>226</ymin>
+			<xmax>421</xmax>
+			<ymax>287</ymax>
 		</bndbox>
 	</object>
 </annotation>

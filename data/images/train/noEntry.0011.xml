@@ -1,62 +1,26 @@
 <annotation>
-	<folder>source</folder>
+	<folder>test</folder>
 	<filename>noEntry.0011.jpg</filename>
-	<path>C:\Users\Ricky\Desktop\macauAI\training\source\yield.27.jpg</path>
+	<path>E:\google\Google &#38642;&#31471;&#30828;&#30879; (pcmsricky@gmail.com)\umacAI\test\IMG_1890.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>400</width>
-		<height>300</height>
+		<width>800</width>
+		<height>533</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>yield</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>160</xmin>
-			<ymin>141</ymin>
-			<xmax>222</xmax>
-			<ymax>204</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>noLeftTurn</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>162</xmin>
-			<ymin>95</ymin>
-			<xmax>223</xmax>
-			<ymax>150</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>noStopping</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>123</xmin>
-			<ymin>201</ymin>
-			<xmax>150</xmax>
-			<ymax>226</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>noEntry</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>101</xmin>
-			<ymin>162</ymin>
-			<xmax>129</xmax>
-			<ymax>205</ymax>
+			<xmin>443</xmin>
+			<ymin>194</ymin>
+			<xmax>542</xmax>
+			<ymax>292</ymax>
 		</bndbox>
 	</object>
 </annotation>
