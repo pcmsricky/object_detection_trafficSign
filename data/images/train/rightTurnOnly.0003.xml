@@ -1,62 +1,26 @@
 <annotation>
-	<folder>test</folder>
-	<filename>pedestrianCrossingR.0006.jpg</filename>
-	<path>E:\google\Google &#38642;&#31471;&#30828;&#30879; (pcmsricky@gmail.com)\umacAI\test\IMG_1910.jpg</path>
+	<folder>source</folder>
+	<filename>rightTurnOnly.0003.jpg</filename>
+	<path>C:\Users\Ricky\Desktop\macauAI\training\source\yield.49.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>533</height>
+		<width>400</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>pedestrianCrossingR</name>
+		<name>rightTurnOnly</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>175</xmin>
-			<ymin>204</ymin>
-			<xmax>268</xmax>
-			<ymax>283</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>40SpeedLimit</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>359</xmin>
-			<ymin>267</ymin>
-			<xmax>419</xmax>
-			<ymax>322</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>roundaboutR</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>357</xmin>
-			<ymin>210</ymin>
-			<xmax>422</xmax>
-			<ymax>269</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>pedestrianCrossing</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>480</xmin>
-			<ymin>318</ymin>
-			<xmax>513</xmax>
-			<ymax>352</ymax>
+			<xmin>188</xmin>
+			<ymin>125</ymin>
+			<xmax>210</xmax>
+			<ymax>150</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,22 +29,58 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>722</xmin>
-			<ymin>330</ymin>
-			<xmax>753</xmax>
-			<ymax>356</ymax>
+			<xmin>186</xmin>
+			<ymin>149</ymin>
+			<xmax>211</xmax>
+			<ymax>173</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>noRightTurn</name>
+		<name>noStopping</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>722</xmin>
-			<ymin>303</ymin>
-			<xmax>751</xmax>
-			<ymax>332</ymax>
+			<xmin>85</xmin>
+			<ymin>137</ymin>
+			<xmax>100</xmax>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>noEntry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>261</xmin>
+			<ymin>141</ymin>
+			<xmax>275</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>noStopping</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>278</xmin>
+			<ymin>140</ymin>
+			<xmax>292</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rightOnly</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>273</xmin>
+			<ymin>157</ymin>
+			<xmax>291</xmax>
+			<ymax>177</ymax>
 		</bndbox>
 	</object>
 </annotation>

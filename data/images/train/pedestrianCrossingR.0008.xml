@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
-	<filename>pedestrianCrossingR.0003.jpg</filename>
-	<path>E:\google\Google &#38642;&#31471;&#30828;&#30879; (pcmsricky@gmail.com)\umacAI\test\IMG_1902.jpg</path>
+	<filename>pedestrianCrossingR.0008.jpg</filename>
+	<path>E:\google\Google &#38642;&#31471;&#30828;&#30879; (pcmsricky@gmail.com)\umacAI\test\IMG_1933.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>372</xmin>
-			<ymin>248</ymin>
-			<xmax>423</xmax>
-			<ymax>299</ymax>
+			<xmin>356</xmin>
+			<ymin>207</ymin>
+			<xmax>484</xmax>
+			<ymax>320</ymax>
 		</bndbox>
 	</object>
 </annotation>
