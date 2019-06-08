@@ -1,6 +1,6 @@
 <annotation>
   <folder>train</folder>
-  <filename>IMG_1867</filename>
+  <filename>IMG_1867.jpg</filename>
   <path>/content/object_detection_trafficSign/test</path>
   <size>
     <width>800</width>
@@ -10,6 +10,8 @@
   <object>
     <name>noStopping</name>
     <difficult>6</difficult>
+		<truncated>0</truncated>
+		<difficult>1</difficult>    
     <bndbox>
       <ymin>106</ymin>
       <xmin>263</xmin>

@@ -1,0 +1,99 @@
+item {
+    id: 1
+    name: '5mHeightLimit'
+}
+
+item {
+    id: 2
+    name: 'closedToAll'
+}
+
+item {
+    id: 3
+    name: 'deadEnd'
+}
+
+item {
+    id: 4
+    name: 'keepLeft'
+}
+
+item {
+    id: 5
+    name: 'keepLeftRight'
+}
+
+item {
+    id: 6
+    name: 'limit40'
+}
+
+item {
+    id: 7
+    name: 'noEntry'
+}
+
+item {
+    id: 8
+    name: 'noLeftTurn'
+}
+
+item {
+    id: 9
+    name: 'noMotorVehicles'
+}
+
+item {
+    id: 10
+    name: 'noRightTurn'
+}
+
+item {
+    id: 11
+    name: 'noStopping'
+}
+
+item {
+    id: 12
+    name: 'oneway'
+}
+
+item {
+    id: 13
+    name: 'pedestrianCrossing'
+}
+
+item {
+    id: 14
+    name: 'pedestrianCrossingR'
+}
+
+item {
+    id: 15
+    name: 'pedestriansBlue'
+}
+
+item {
+    id: 16
+    name: 'pedestriansRed'
+}
+
+item {
+    id: 17
+    name: 'roadDown'
+}
+
+item {
+    id: 18
+    name: 'roadTurnLeft'
+}
+
+item {
+    id: 19
+    name: 'roundabout'
+}
+
+item {
+    id: 20
+    name: 'yield'
+}
