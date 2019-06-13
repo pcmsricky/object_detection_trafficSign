@@ -1,38 +1,26 @@
 <annotation>
-	<folder>train</folder>
+	<folder>test</folder>
 	<filename>pedestrianCrossing.0019.jpg</filename>
-	<path>C:\Users\Ricky\Desktop\object_detection_demo-master\data\images\train\oneway.57.jpg</path>
+	<path>E:\google\Google &#38642;&#31471;&#30828;&#30879; (pcmsricky@gmail.com)\umacAI\test\IMG_1954.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>400</width>
-		<height>300</height>
+		<width>800</width>
+		<height>533</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>oneway</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>153</xmin>
-			<ymin>130</ymin>
-			<xmax>188</xmax>
-			<ymax>167</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>pedestrianCrossing</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>153</xmin>
-			<ymin>165</ymin>
-			<xmax>190</xmax>
-			<ymax>200</ymax>
+			<xmin>306</xmin>
+			<ymin>230</ymin>
+			<xmax>422</xmax>
+			<ymax>341</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
-	<filename>yield.0001.jpg</filename>
-	<path>C:\Users\Ricky\Desktop\&#36554;&#29260;test\test\IMG_1842.jpg</path>
+	<filename>roundabout.0004.jpg</filename>
+	<path>E:\google\Google &#38642;&#31471;&#30828;&#30879; (pcmsricky@gmail.com)\umacAI\test\IMG_1998.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>yield</name>
+		<name>roundabout</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<difficult>1</difficult>
+		<difficult>0</difficult>
 		<bndbox>
-			<xmin>347</xmin>
-			<ymin>217</ymin>
-			<xmax>486</xmax>
-			<ymax>339</ymax>
+			<xmin>404</xmin>
+			<ymin>236</ymin>
+			<xmax>473</xmax>
+			<ymax>319</ymax>
 		</bndbox>
 	</object>
 </annotation>

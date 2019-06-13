@@ -1,13 +1,13 @@
 <annotation>
-	<folder>test</folder>
-	<filename>oneway.0001.jpg</filename>
-	<path>C:\Users\Ricky\Desktop\&#36554;&#29260;test\test\IMG_1841.jpg</path>
+	<folder>train</folder>
+	<filename>pedestrianCrossing.0044.jpg</filename>
+	<path>C:\Users\Ricky\Desktop\object_detection_demo-master\data\images\train\oneway.44.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>800</width>
-		<height>533</height>
+		<width>400</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,22 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>359</xmin>
-			<ymin>165</ymin>
-			<xmax>458</xmax>
-			<ymax>334</ymax>
+			<xmin>150</xmin>
+			<ymin>142</ymin>
+			<xmax>184</xmax>
+			<ymax>179</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>noStopping</name>
+		<name>pedestrianCrossing</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>365</xmin>
-			<ymin>322</ymin>
-			<xmax>493</xmax>
-			<ymax>477</ymax>
+			<xmin>151</xmin>
+			<ymin>178</ymin>
+			<xmax>183</xmax>
+			<ymax>216</ymax>
 		</bndbox>
 	</object>
 </annotation>

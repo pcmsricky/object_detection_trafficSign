@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
 	<filename>noStopping.0002.jpg</filename>
-	<path>C:\Users\Ricky\Desktop\&#36554;&#29260;test\test\IMG_1849.jpg</path>
+	<path>E:\google\Google &#38642;&#31471;&#30828;&#30879; (pcmsricky@gmail.com)\umacAI\test\IMG_1844.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,34 +17,22 @@
 		<truncated>0</truncated>
 		<difficult>1</difficult>
 		<bndbox>
-			<xmin>405</xmin>
-			<ymin>339</ymin>
-			<xmax>455</xmax>
-			<ymax>411</ymax>
+			<xmin>208</xmin>
+			<ymin>163</ymin>
+			<xmax>341</xmax>
+			<ymax>285</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>oneway</name>
+		<name>deadEnd</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>253</xmin>
-			<ymin>247</ymin>
-			<xmax>331</xmax>
-			<ymax>326</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>oneway</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>387</xmin>
-			<ymin>266</ymin>
-			<xmax>455</xmax>
-			<ymax>341</ymax>
+			<xmin>223</xmin>
+			<ymin>26</ymin>
+			<xmax>286</xmax>
+			<ymax>166</ymax>
 		</bndbox>
 	</object>
 </annotation>

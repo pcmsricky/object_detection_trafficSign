@@ -1,26 +1,50 @@
 <annotation>
-	<folder>train</folder>
+	<folder>test</folder>
 	<filename>pedestrianCrossing.0023.jpg</filename>
-	<path>C:\Users\Ricky\Desktop\object_detection_demo-master\data\images\train\oneway.71.jpg</path>
+	<path>E:\google\Google &#38642;&#31471;&#30828;&#30879; (pcmsricky@gmail.com)\umacAI\test\IMG_1958.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>400</width>
-		<height>300</height>
+		<width>800</width>
+		<height>533</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>oneway</name>
+		<name>pedestrianCrossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>1</difficult>
+		<bndbox>
+			<xmin>380</xmin>
+			<ymin>241</ymin>
+			<xmax>454</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pedestrianCrossingR</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>187</xmin>
-			<ymin>116</ymin>
-			<xmax>235</xmax>
-			<ymax>168</ymax>
+			<xmin>155</xmin>
+			<ymin>146</ymin>
+			<xmax>258</xmax>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>noLeftTurn</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>519</xmin>
+			<ymin>285</ymin>
+			<xmax>572</xmax>
+			<ymax>338</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>188</xmin>
-			<ymin>164</ymin>
-			<xmax>238</xmax>
-			<ymax>216</ymax>
+			<xmin>693</xmin>
+			<ymin>355</ymin>
+			<xmax>731</xmax>
+			<ymax>393</ymax>
 		</bndbox>
 	</object>
 </annotation>

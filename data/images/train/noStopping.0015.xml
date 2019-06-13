@@ -1,38 +1,26 @@
 <annotation>
-	<folder>train</folder>
+	<folder>test</folder>
 	<filename>noStopping.0015.jpg</filename>
-	<path>C:\Users\Ricky\Desktop\object_detection_demo-master\data\images\train\yield.22.jpg</path>
+	<path>E:\google\Google &#38642;&#31471;&#30828;&#30879; (pcmsricky@gmail.com)\umacAI\test\IMG_2028.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>400</width>
-		<height>300</height>
+		<width>800</width>
+		<height>533</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>yield</name>
+		<name>noEntry</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<difficult>0</difficult>
+		<difficult>1</difficult>
 		<bndbox>
-			<xmin>159</xmin>
-			<ymin>112</ymin>
-			<xmax>233</xmax>
-			<ymax>198</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>pedestrianCrossingR</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>74</xmin>
-			<ymin>242</ymin>
-			<xmax>105</xmax>
-			<ymax>272</ymax>
+			<xmin>294</xmin>
+			<ymin>171</ymin>
+			<xmax>370</xmax>
+			<ymax>286</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>43</xmin>
-			<ymin>265</ymin>
-			<xmax>60</xmax>
-			<ymax>283</ymax>
+			<xmin>450</xmin>
+			<ymin>319</ymin>
+			<xmax>515</xmax>
+			<ymax>395</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>pedestrianCrossing.0036.jpg</filename>
+	<path>E:\google\Google &#38642;&#31471;&#30828;&#30879; (pcmsricky@gmail.com)\umacAI\test\IMG_2007.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrianCrossing</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>365</xmin>
+			<ymin>252</ymin>
+			<xmax>471</xmax>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+</annotation>

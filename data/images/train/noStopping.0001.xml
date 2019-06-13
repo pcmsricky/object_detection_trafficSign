@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
 	<filename>noStopping.0001.jpg</filename>
-	<path>C:\Users\Ricky\Desktop\&#36554;&#29260;test\test\IMG_1841.jpg</path>
+	<path>E:\google\Google &#38642;&#31471;&#30828;&#30879; (pcmsricky@gmail.com)\umacAI\test\IMG_1841.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -15,11 +15,11 @@
 		<name>oneway</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<difficult>0</difficult>
+		<difficult>1</difficult>
 		<bndbox>
-			<xmin>359</xmin>
-			<ymin>165</ymin>
-			<xmax>458</xmax>
+			<xmin>346</xmin>
+			<ymin>160</ymin>
+			<xmax>454</xmax>
 			<ymax>334</ymax>
 		</bndbox>
 	</object>
@@ -27,9 +27,9 @@
 		<name>noStopping</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
-		<difficult>0</difficult>
+		<difficult>1</difficult>
 		<bndbox>
-			<xmin>365</xmin>
+			<xmin>357</xmin>
 			<ymin>322</ymin>
 			<xmax>493</xmax>
 			<ymax>477</ymax>
