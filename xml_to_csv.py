@@ -28,21 +28,24 @@ def xml_to_csv(path):
     """
     classes_names = []
     xml_list = []
-    for xml_file in glob.glob(path + "/*.xml"):
-        print(xml_file)
+    xml_files = glob.glob(path + "/*.xml")
+    total = len(xml_files)
+    for i, xml_file in enumerate(xml_files):
+        print(xml_file,'...',i,'/',total)
         tree = ET.parse(xml_file)
         root = tree.getroot()
         for member in root.findall("object"):
             classes_names.append(member[0].text)
+            bndbox = member.find('bndbox')
             value = (
                 root.find("filename").text,
                 int(root.find("size")[0].text),
                 int(root.find("size")[1].text),
                 member[0].text,
-                int(member[4][0].text),
-                int(member[4][1].text),
-                int(member[4][2].text),
-                int(member[4][3].text),
+                int(bndbox.find('xmin').text),
+                int(bndbox.find('ymin').text),
+                int(bndbox.find('xmax').text),
+                int(bndbox.find('ymax').text),
             )
             xml_list.append(value)
     column_name = [
